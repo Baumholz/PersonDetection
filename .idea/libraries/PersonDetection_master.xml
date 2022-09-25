@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PersonDetection-master">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PersonDetection/PersonDetection-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,17 @@
+{
+	"show_video": false,
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 5,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 10,
+	"resolution": [640, 480],
+	"fps": 32,
+	"min_area": 5000,
+	"tracking_dist_max": 100,
+	"tracking_frame": 0,
+    "del_time" : 0.3,
+	"sec_between_send" : 60,
+	"debugging": false,
+    "lora": false,
+	"path_to_geotagger": "/home/pi/Documents/GitRepo_PedestrianDetection/LoRa/ttnsender/main/geotagger"
+}
